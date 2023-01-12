@@ -1,0 +1,48 @@
+body {
+    max-width: 100%;
+}
+
+h1 {
+    background-color: rebeccapurple;
+    display: grid;
+    grid-template-rows: auto;
+    justify-content: center;
+    font-size: xxlarge;
+    color: gold;
+}
+
+h2 {
+    background-color: crimson;
+    display: grid;
+    grid-template-rows: auto;
+    justify-content: center;
+    font-size: xx-large;
+    color: rgb(57, 57, 231);
+}
+
+h3 {
+    background-color: rgb(57, 57, 231);
+    display: grid;
+    grid-template-rows: auto;
+    justify-content: center;
+    font-size: xx-large;
+    color: crimson;
+
+}
+
+h4 {
+    background-color: gold;
+    display: grid;
+    grid-template-rows: auto;
+    justify-content: center;
+    font-size: xx-large;
+    color: rebeccapurple;
+}
+h6 {
+    background-color: black;
+    display: grid;
+    grid-template-rows: auto;
+    justify-content: center;
+    font-size: xx-large;
+    color: red;
+}
